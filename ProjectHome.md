@@ -1,0 +1,1 @@
+Mines the data from Workrave historystat file into format that can be easily imported into some statistics software
